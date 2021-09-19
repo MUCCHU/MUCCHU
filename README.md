@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 -->
+- 👨‍🎓 I study at IIT Kharagpur with my specialization in Mathematics and Computing
 - 🔭 I’m currently working at Entrepreneurship Cell IIT Kharagpur as an Associate Member
 - 🌱 I’m currently learning Django and React 
 - 🤔 I’m looking for help with Django and my academics
