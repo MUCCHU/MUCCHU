@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: I am a very moody person
 <img src="https://github-readme-stats.vercel.app/api?username=MUCCHU&&show_icons=true&title_color=#2F80ED&icon_color=bb2acf&text_color=#333333&bg_color=#fffefe" />
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MUCCHU)](https://git.io/streak-stats)
